@@ -10,15 +10,15 @@
   "env": {
     "TOKEN": {
       "description": "Bot token",
-      "value": "bot32313"
+      "value": "1730896101:AAGN5kyq68Uco6zwtlLc8088jcQBfKzpNwU"
     },
     "APP_ID": {
       "description": "APP_ID",
-      "value": "5155161"
+      "value": "6528987"
     },
     "APP_HASH": {
       "description": "APP_HASH",
-      "value": "3131"
+      "value": "adff928abd1a648e7da836e396edea1d"
     }
   },
   "formation": {
